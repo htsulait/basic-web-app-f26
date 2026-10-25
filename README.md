@@ -22,7 +22,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Testing
 
-The repo uses [Jest](https://jestjs.io/) for testing. Current there's one test file for `QueryProcessor` helper, called `_tests_/QueryProcessor.test.ts`.
+The repo uses [Jest](https://jestjs.io/) for testing. Current there's one test file for `QueryProcessor` helper, called `__tests__/utils/QueryProcessor.test.ts`.
 
 To run tests, run the following command
 
